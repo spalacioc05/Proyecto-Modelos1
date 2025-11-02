@@ -19,5 +19,5 @@ Este proyecto tiene como objetivo construir un **modelo de clasificación** que 
   - 🎓 Programa: Ingeniería de Sistemas  
 
 ## 🎥 Videos de Entrega  
-- **Entrega 2:** _pendiente_  
+- **Entrega 2:** https://youtu.be/yTaQmhqR7tc
 - **Entrega 3:** _pendiente_  
