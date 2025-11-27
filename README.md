@@ -20,4 +20,4 @@ Este proyecto tiene como objetivo construir un **modelo de clasificación** que 
 
 ## 🎥 Videos de Entrega  
 - **Entrega 2:** https://youtu.be/yTaQmhqR7tc
-- **Entrega 3:** _pendiente_  
+- **Entrega 3:** https://youtu.be/Ozr7kc2ycNs
